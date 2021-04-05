@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(name='lime',
       version='0.2.0.3',
       description='Local Interpretable Model-Agnostic Explanations for machine learning classifiers',
-      url='http://github.com/marcotcr/lime',
+      url='https://github.com/tanvijain13/lime-mani-2',
       author='Marco Tulio Ribeiro',
       author_email='marcotcr@gmail.com',
       license='BSD',
